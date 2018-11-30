@@ -2,3 +2,8 @@ Line01 - This is a sample text file to check the deployment commits and updates 
  	The file was successfully commited to git repo. 
  	
  Line02 - Now Updating this file and commiting with Jira story in the commit command. To see the automatic update on Jira story. 
+ 	This  commit was success in git repo and the commit was also recorded on Jira story. 
+ 
+ Line03 - Exploring the other possible commit comments.
+ 	DEP-1 DEP-2 #resolve #time 2d 5h
+ 	 
